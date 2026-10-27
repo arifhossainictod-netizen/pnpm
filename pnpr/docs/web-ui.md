@@ -31,7 +31,7 @@ enabled. The UI loads its font from Google Fonts.
 
 ```yaml title="pnpr.yaml"
 ui:
-  enabled: true
+  enabled: true/false
   dir: ./pnpr-ui
 ```
 
